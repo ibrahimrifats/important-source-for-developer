@@ -1,0 +1,8 @@
+ssh-keygen -t rsa -b 4096 -C "your-email@example.com"
+
+or in specific dir :
+ssh -i /path/to/your/id_rsa username@hostname
+
+- e.g Hostname: ssh.**.****.com
+- user name : xyz.com
+
