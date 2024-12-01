@@ -1,0 +1,6 @@
+previous : [node -v
+v12.22.9 ]
+
+  now : 
+  terminal cmd : nvm use 22 
+  output:[Now using node v22.8.0 (npm v10.8.2)]
